@@ -1,0 +1,12 @@
+.landing {
+    height: 100%;
+  }
+  
+  .landing__link {
+    height: 30%;
+    background: lightyellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
